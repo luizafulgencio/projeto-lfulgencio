@@ -25,6 +25,8 @@ if (!require("knitr")) install.packages("knitr")
 
 # Introdução
 
+Primeira frase
+
 ~~Eu~~ **preciso** de *férias*
 
 ~<3~ ^<3^ ~<3~ ^<3^ ~<3~ ^<3^ ~<3~ ^<3^
